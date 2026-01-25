@@ -145,7 +145,7 @@
       {
         "@context": "https://schema.org",
         "@type": "Product",
-        "url": "https://bspfoods.com/products/",
+        "url": "https://www.uzs.cz/en/contacts",
         "name": "TEKNO88 | SITUS LOGIN TOTO SLOT DEPOSIT VIA DANA RESMI 2026",
         "sku": "4302118744",
         "description": "Tekno88 dikenal sebagai tempat untuk bermain toto togel online dengan deposit via pulsa 10k lengkap dengan link login dana toto 4d hari ini.",
@@ -160,7 +160,7 @@
           "@type": "Brand",
           "name": "TEKNO88"
         },
-        "logo": "https://bspfoods.com/products/img/logo-TEKNO88.webp",
+        "logo": "https://www.uzs.cz/en/contactsimg/logo-TEKNO88.webp",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": 4.9,
@@ -256,7 +256,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://bspfoods.com/products/"
+          "item": "https://www.uzs.cz/en/contacts"
         }]
       }
     </script>
@@ -265,27 +265,27 @@
         "@context": "https://schema.org",
         "@graph": [{
           "@type": "Organization",
-          "@id": "https://bspfoods.com/products/#org",
+          "@id": "https://www.uzs.cz/en/contacts#org",
           "name": "TEKNO88",
-          "url": "https://bspfoods.com/products/",
+          "url": "https://www.uzs.cz/en/contacts",
           "logo": "https://res.cloudinary.com/doa7wvin7/image/upload/v1762248199/banner-slotgacorpw_nt7nfv_hhrfft.jpg"
         }, {
           "@type": "WebSite",
-          "@id": "https://bspfoods.com/products/#website",
-          "url": "https://bspfoods.com/products/",
+          "@id": "https://www.uzs.cz/en/contacts#website",
+          "url": "https://www.uzs.cz/en/contacts",
           "name": "TEKNO88",
           "publisher": {
-            "@id": "https://bspfoods.com/products/#org"
+            "@id": "https://www.uzs.cz/en/contacts#org"
           },
           "inLanguage": "id-ID",
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://bspfoods.com/products/?s={search_term_string}",
+            "target": "https://www.uzs.cz/en/contacts?s={search_term_string}",
             "query-input": "required name=search_term_string"
           }
         }, {
           "@type": "SoftwareApplication",
-          "@id": "https://bspfoods.com/products/#app",
+          "@id": "https://www.uzs.cz/en/contacts#app",
           "name": "TEKNO88",
           "applicationCategory": "GameApplication",
           "operatingSystem": "Android, iOS, Windows",
@@ -316,7 +316,7 @@
     <meta property="og:title" content="TEKNO88 | SITUS LOGIN TOTO SLOT DEPOSIT VIA DANA RESMI 2026" />
     <meta property="og:description" content="Tekno88 dikenal sebagai tempat untuk bermain toto togel online dengan deposit via pulsa 10k lengkap dengan link login dana toto 4d hari ini." />
     <meta property="og:type" content="product" />
-    <meta property="og:url" content="https://bspfoods.com/products/" />
+    <meta property="og:url" content="https://www.uzs.cz/en/contacts" />
     <meta property="og:image" content="https://res.cloudinary.com/doa7wvin7/image/upload/v1762248199/banner-slotgacorpw_nt7nfv_hhrfft.jpg" />
     <meta property="product:price:amount" content="22.50" />
     <meta property="product:price:currency" content="GBP" />
@@ -331,38 +331,38 @@
     <link rel="preconnect" href="//v.etsystatic.com" />
     <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
     <link rel="preload" as="image" imagesrcset="https://res.cloudinary.com/doa7wvin7/image/upload/v1762248199/banner-slotgacorpw_nt7nfv_hhrfft.jpg" fetchpriority="high" />
-    <link rel="canonical" href="https://bspfoods.com/products/" />
+    <link rel="canonical" href="https://www.uzs.cz/en/contacts" />
     <link rel="amphtml" href="https://mingorisrl.pages.dev" />
     <meta name="google-site-verification" content="U_N-qQp9Jn2KG7qucrfgZYt7H8JdIrfRjYUtrjJvtCI" />
-    <link rel="alternate" href="https://bspfoods.com/products/" hreflang="en" />
-    <link rel="alternate" href="https://bspfoods.com/products/fi-en/" hreflang="en-FI" />
-    <link rel="alternate" href="https://bspfoods.com/products/au/" hreflang="en-AU" />
-    <link rel="alternate" href="https://bspfoods.com/products/ca/" hreflang="en-CA" />
-    <link rel="alternate" href="https://bspfoods.com/products/dk-en/" hreflang="en-DK" />
-    <link rel="alternate" href="https://bspfoods.com/products/hk-en/" hreflang="en-HK" />
-    <link rel="alternate" href="https://bspfoods.com/products/ie/" hreflang="en-IE" />
-    <link rel="alternate" href="https://bspfoods.com/products/il-en/" hreflang="en-IL" />
-    <link rel="alternate" href="https://bspfoods.com/products/in-en/" hreflang="en-IN" />
-    <link rel="alternate" href="https://bspfoods.com/products/nz/" hreflang="en-NZ" />
-    <link rel="alternate" href="https://bspfoods.com/products/no-en/" hreflang="en-NO" />
-    <link rel="alternate" href="https://bspfoods.com/products/se-en/" hreflang="en-SE" />
-    <link rel="alternate" href="https://bspfoods.com/products/sg-en/" hreflang="en-SG" />
-    <link rel="alternate" href="https://bspfoods.com/products/uk/" hreflang="en-GB" />
-    <link rel="alternate" href="https://bspfoods.com/products/de/" hreflang="de" />
-    <link rel="alternate" href="https://bspfoods.com/products/at/" hreflang="de-AT" />
-    <link rel="alternate" href="https://bspfoods.com/products/ch/" hreflang="de-CH" />
-    <link rel="alternate" href="https://bspfoods.com/products/fr/" hreflang="fr" />
-    <link rel="alternate" href="https://bspfoods.com/products/ca-fr/" hreflang="fr-CA" />
-    <link rel="alternate" href="https://bspfoods.com/products/nl/" hreflang="nl" />
-    <link rel="alternate" href="https://bspfoods.com/products/be/" hreflang="nl-BE" />
-    <link rel="alternate" href="https://bspfoods.com/products/it/" hreflang="it" />
-    <link rel="alternate" href="https://bspfoods.com/products/es/" hreflang="es" />
-    <link rel="alternate" href="https://bspfoods.com/products/mx/" hreflang="es-MX" />
-    <link rel="alternate" href="https://bspfoods.com/products/jp/" hreflang="ja" />
-    <link rel="alternate" href="https://bspfoods.com/products/pl/" hreflang="pl" />
-    <link rel="alternate" href="https://bspfoods.com/products/pt/" hreflang="pt" />
-    <link rel="alternate" href="https://bspfoods.com/products/" hreflang="x-default" />
-    <link rel="alternate" href="https://bspfoods.com/products/" hreflang="en-US" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contacts" hreflang="en" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsfi-en/" hreflang="en-FI" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsau/" hreflang="en-AU" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsca/" hreflang="en-CA" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsdk-en/" hreflang="en-DK" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactshk-en/" hreflang="en-HK" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsie/" hreflang="en-IE" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsil-en/" hreflang="en-IL" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsin-en/" hreflang="en-IN" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsnz/" hreflang="en-NZ" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsno-en/" hreflang="en-NO" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsse-en/" hreflang="en-SE" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactssg-en/" hreflang="en-SG" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsuk/" hreflang="en-GB" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsde/" hreflang="de" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsat/" hreflang="de-AT" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsch/" hreflang="de-CH" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsfr/" hreflang="fr" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsca-fr/" hreflang="fr-CA" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsnl/" hreflang="nl" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsbe/" hreflang="nl-BE" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsit/" hreflang="it" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactses/" hreflang="es" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsmx/" hreflang="es-MX" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactsjp/" hreflang="ja" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactspl/" hreflang="pl" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contactspt/" hreflang="pt" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contacts" hreflang="x-default" />
+    <link rel="alternate" href="https://www.uzs.cz/en/contacts" hreflang="en-US" />
     <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
       __webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";
     </script>
@@ -574,7 +574,7 @@
                 </li>
                 <li data-ge-nav-menu="cart" data-ge-hover-event-name="gnav_hover_cart_menu">
                   <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
-                    <a aria-label="Cart" href="https://bspfoods.com/products/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
+                    <a aria-label="Cart" href="https://www.uzs.cz/en/contactscart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
                       <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true"> 0 </span>
                       <span class="wt-icon">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -597,7 +597,7 @@
             <div class="wt-body-max-width">
               <ul class="wt-list-unstyled wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                 <li class="wt-mr-xs-3">
-                  <a href="https://bspfoods.com/products/?ref=tekno-88" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="-10">
+                  <a href="https://www.uzs.cz/en/contacts?ref=tekno-88" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="-10">
                     <span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                         <path fill-rule="evenodd" clip-rule="evenodd" d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7zm9.466 0H13V5a2 2 0 1 1 2.001 2M11 5a2 2 0 1 0-2.001 2H11zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.98 4.98 0 0 0 3-1v3H4V9zM13 11c.836.628 1.874 1 3 1v-2a3 3 0 0 1-2.236-1H20v5h-7zm-8 5v4h6v-4zm8 4v-4h6v4z" />
@@ -607,16 +607,16 @@
                   </a>
                 </li>
                 <li class="wt-mr-xs-3">
-                  <a href="https://bspfoods.com/products/?ref=platform-online" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link"> LINK TEKNO88 </a>
+                  <a href="https://www.uzs.cz/en/contacts?ref=platform-online" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link"> LINK TEKNO88 </a>
                 </li>
                 <li class="wt-mr-xs-3">
-                  <a href="https://bspfoods.com/products/?ref=login-TEKNO88" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="2"> RTP TEKNO88 </a>
+                  <a href="https://www.uzs.cz/en/contacts?ref=login-TEKNO88" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="2"> RTP TEKNO88 </a>
                 </li>
                 <li class="wt-mr-xs-3">
-                  <a href="https://bspfoods.com/products/?ref=link-TEKNO88" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="3"> TEKNO88 KING </a>
+                  <a href="https://www.uzs.cz/en/contacts?ref=link-TEKNO88" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="3"> TEKNO88 KING </a>
                 </li>
                 <li class="wt-mr-xs-3">
-                  <a href="https://bspfoods.com/products/?ref=rtp-TEKNO88" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link"> TEKNO88 ART </a>
+                  <a href="https://www.uzs.cz/en/contacts?ref=rtp-TEKNO88" class="wt-btn wt-btn--transparent wt-btn--small " data-menu-ui="menuitem" data-ui="top-nav-category-link"> TEKNO88 ART </a>
                 </li>
               </ul>
             </div>
@@ -2525,7 +2525,7 @@
             <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
               <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                 <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                  <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://bspfoods.com/products/?ref=catnav_breadcrumb-home">TEKNO88</a>
+                  <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.uzs.cz/en/contacts?ref=catnav_breadcrumb-home">TEKNO88</a>
                   <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                       <path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
@@ -2533,7 +2533,7 @@
                   </span>
                 </li>
                 <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                  <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://bspfoods.com/products/c/clothing?explicit=1&ref=catnav_breadcrumb-0">LOGIN TEKNO88</a>
+                  <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.uzs.cz/en/contactsc/clothing?explicit=1&ref=catnav_breadcrumb-0">LOGIN TEKNO88</a>
                 </li>
                 <pre> | </pre>
                 </li>
@@ -2563,7 +2563,7 @@
                               </span>TEKNO88 </span>
                           </button>
                           <div id="etsys_pick" role="tooltip"> Tekno88 dikenal sebagai tempat untuk bermain toto togel online dengan deposit via pulsa 10k lengkap dengan link login dana toto 4d hari ini. <p class="wt-mt-xs-3">
-                              <a href="https://bspfoods.com/products/" target="_blank"> TEKNO88 </a>
+                              <a href="https://www.uzs.cz/en/contacts" target="_blank"> TEKNO88 </a>
                             </p>
                           </div>
                         </div>
@@ -2843,7 +2843,7 @@
                       </div>
                     </div>
                     <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-                      <a class="wt-text-link wt-text-link-underline" href="https://bspfoods.com/products/signin?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost">
+                      <a class="wt-text-link wt-text-link-underline" href="https://www.uzs.cz/en/contactssignin?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost">
                         <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4">
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z" />
@@ -3036,7 +3036,7 @@
         
     ">
                           <span class="wt-text-title-small">
-                            <a href="https://bspfoods.com/products/" class="wt-text-link-no-underline wt-sem-text-primary"> TEKNO88 </a>
+                            <a href="https://www.uzs.cz/en/contacts" class="wt-text-link-no-underline wt-sem-text-primary"> TEKNO88 </a>
                           </span> &nbsp; <div class="wt-popover star-seller-badge-listing-page" data-wt-popover>
                             <button data-wt-popover-trigger class="wt-popover__trigger wt-popover__trigger--underline" aria-label="Star Seller" aria-describedby="star-seller-popover">
                               <span class="wt-icon wt-icon--smaller-xs wt-icon--core wt-fill-star-seller-dark" alt="star_seller">
@@ -4399,7 +4399,7 @@
                                           </svg>
                                         </span>
                                       </div>
-                                      <div class="wt-ml-xs-1 how-its-made-label-product-details"> Designed by <a href=https://bspfoods.com/products/ target="_blank" class="wt-text-link-no-underline wt-text-title"> TEKNO88</a>
+                                      <div class="wt-ml-xs-1 how-its-made-label-product-details"> Designed by <a href=https://www.uzs.cz/en/contacts target="_blank" class="wt-text-link-no-underline wt-text-title"> TEKNO88</a>
                                       </div>
                                     </li>
                                   </div>
@@ -4512,7 +4512,7 @@
                                                 <div class="wt-popover wt-text-caption" data-wt-popover data-selector="popover-replacement">
                                                   <button type="button" data-wt-popover-trigger class="wt-popover__trigger wt-popover__trigger--underline wt-text-body-01 wt-text-left-xs" aria-describedby="shipping-highlights-estimated-delivery-date-popover"></button>
                                                   <div id="shipping-highlights-estimated-delivery-date-popover" role="tooltip">
-                                                    <p class="wt-text-caption wt-mb-xs-1"> Jika anda masuk kedalam platform melalui <a href='https://bspfoods.com/products/' target='_blank'>login TEKNO88</a>, maka anda tidak akan terganggu oleh iklan dan anda bisa menikmati langsung keunggulan dari platform ini. </p>
+                                                    <p class="wt-text-caption wt-mb-xs-1"> Jika anda masuk kedalam platform melalui <a href='https://www.uzs.cz/en/contacts' target='_blank'>login TEKNO88</a>, maka anda tidak akan terganggu oleh iklan dan anda bisa menikmati langsung keunggulan dari platform ini. </p>
                                                     <span class="wt-popover__arrow"></span>
                                                   </div>
                                                 </div>
@@ -5225,7 +5225,7 @@
                                       </div>
                                       <p class="wt-sem-text-primary wt-text-caption">
                                         <strong>TEKNO88 Perlindungan Pembelian</strong>
-                                        <br> Berbelanja dengan percaya diri di TEKNO88, mengetahui jika terjadi kesalahan pada pesanan, kami siap membantu Anda untuk semua pembelian yang memenuhi syarat — <a href="https://bspfoods.com/products/" target="_blank" class="wt-text-link"> see program terms </a>
+                                        <br> Berbelanja dengan percaya diri di TEKNO88, mengetahui jika terjadi kesalahan pada pesanan, kami siap membantu Anda untuk semua pembelian yang memenuhi syarat — <a href="https://www.uzs.cz/en/contacts" target="_blank" class="wt-text-link"> see program terms </a>
                                       </p>
                                     </div>
                                   </div>
@@ -5275,12 +5275,12 @@
                                   </div>
                                   <div>
                                     <p class="wt-text-heading-small wt-line-height-tight wt-mb-lg-1">TEKNO88</p>
-                                    <p class=" wt-sem-text-primary wt-text-caption"> Owner of <a href='https://bspfoods.com/products/' class='wt-text-link'>Pestival Populer</a>
+                                    <p class=" wt-sem-text-primary wt-text-caption"> Owner of <a href='https://www.uzs.cz/en/contacts' class='wt-text-link'>Pestival Populer</a>
                                     </p>
                                     <div data-follow-shop-region>
                                       <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
                                         <input type="hidden" class="id" name="user_id" value="386926495" />
-                                        <a href="https://bspfoods.com/products/" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--transparent follow-shop-button-listing-header-v3 wt-btn--transparent-flush-left" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="listing_header" data-module-name="">
+                                        <a href="https://www.uzs.cz/en/contacts" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--transparent follow-shop-button-listing-header-v3 wt-btn--transparent-flush-left" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="listing_header" data-module-name="">
                                           <span class="etsy-icon wt-icon--smaller-xs" data-not-following-icon="">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                                               <path d="M12,21C10.349,21,2,14.688,2,9,2,5.579,4.364,3,7.5,3A6.912,6.912,0,0,1,12,5.051,6.953,6.953,0,0,1,16.5,3C19.636,3,22,5.579,22,9,22,14.688,13.651,21,12,21ZM7.5,5C5.472,5,4,6.683,4,9c0,4.108,6.432,9.325,8,10,1.564-.657,8-5.832,8-10,0-2.317-1.472-4-3.5-4-1.979,0-3.7,2.105-3.721,2.127L11.991,8.1,11.216,7.12C11.186,7.083,9.5,5,7.5,5Z" />
@@ -5298,7 +5298,7 @@
                                     </div>
                                   </div>
                                 </div>
-                                <a rel="nofollow" href="https://bspfoods.com/products/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller" class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="TEKNO88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message TEKNO88">
+                                <a rel="nofollow" href="https://www.uzs.cz/en/contactsmessages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller" class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="TEKNO88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message TEKNO88">
                                   <span>Message TEKNO88</span>
                                 </a>
                                 <p class="wt-text-caption wt-text-center-xs wt-pt-xs-2 wt-sem-text-secondary"> This seller usually responds <b>within 24 hours.</b>
@@ -5345,7 +5345,7 @@
                                 <p id="seller-details-addresss" class="wt-mb-xs-2 wt-mt-xs-2"></p>
                               </div>
                               <div class="wt-mb-xs-2">
-                                <p class="wt-mb-xs-2 wt-mt-xs-2"> Need to get in touch with the seller? Try <a rel="nofollow" href="https://bspfoods.com/products/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller" class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="TEKNO88" data-to_user_id="386926495" data-to_user_display_name="TEKNO88" data-referring_type="shop" data-referring_id="25947065" data-subject="" data-message="" aria-label="messaging them">
+                                <p class="wt-mb-xs-2 wt-mt-xs-2"> Need to get in touch with the seller? Try <a rel="nofollow" href="https://www.uzs.cz/en/contactsmessages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller" class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="TEKNO88" data-to_user_id="386926495" data-to_user_display_name="TEKNO88" data-referring_type="shop" data-referring_id="25947065" data-subject="" data-message="" aria-label="messaging them">
                                     <span>messaging them</span>
                                   </a> on TEKNO88 first. </p>
                               </div>
@@ -5917,17 +5917,17 @@
                                   </a>
                                 </div>
                                 <div class="wt-action-group__item-container">
-                                  <a href="https://bspfoods.com/products/?ref=pagination&page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected" aria-current="true">
+                                  <a href="https://www.uzs.cz/en/contacts?ref=pagination&page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected" aria-current="true">
                                     <span>1</span>
                                   </a>
                                 </div>
                                 <div class="wt-action-group__item-container">
-                                  <a href="https://bspfoods.com/products/?ref=pagination&page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="2">
+                                  <a href="https://www.uzs.cz/en/contacts?ref=pagination&page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="2">
                                     <span>2</span>
                                   </a>
                                 </div>
                                 <div class="wt-action-group__item-container">
-                                  <a href="https://bspfoods.com/products/?ref=pagination&page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="3">
+                                  <a href="https://www.uzs.cz/en/contacts?ref=pagination&page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="3">
                                     <span>3</span>
                                   </a>
                                 </div>
@@ -5937,12 +5937,12 @@
                                   </a>
                                 </div>
                                 <div class="wt-action-group__item-container">
-                                  <a href="https://bspfoods.com/products/?ref=pagination&page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="5">
+                                  <a href="https://www.uzs.cz/en/contacts?ref=pagination&page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="5">
                                     <span>5</span>
                                   </a>
                                 </div>
                                 <div class="wt-action-group__item-container">
-                                  <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon " href="https://bspfoods.com/products/?ref=pagination&page=2" data-page="2">
+                                  <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon " href="https://www.uzs.cz/en/contacts?ref=pagination&page=2" data-page="2">
                                     <span class="wt-screen-reader-only">Next page</span>
                                     <span class="wt-icon wt-icon--smaller">
                                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -6042,7 +6042,7 @@
                           <div class="wt-width-full wt-display-flex-xs wt-flex-direction-column-xs" data-seller-cred>
                             <div class="seller-cred wt-width-full wt-display-flex-xs wt-flex-gap-xs-2 wt-flex-direction-column-xs wt-align-items-center wt-mb-xs-3 wt-mb-md-4">
                               <div class="wt-position-relative">
-                                <a href="https://bspfoods.com/products/">
+                                <a href="https://www.uzs.cz/en/contacts">
                                   <img data-clg-id="WtImage" class="wt-circle wt-display-block wt-image--cover wt-image" src="https://res.cloudinary.com/doa7wvin7/image/upload/v1762248405/favicon_bitofn.png" alt="TEKNO88" style="aspect-ratio: 1;" sizes="(max-width: 639px) 65px, 80px" srcset="https://res.cloudinary.com/doa7wvin7/image/upload/v1762248405/favicon_bitofn.png 100w, https://res.cloudinary.com/doa7wvin7/image/upload/v1762248405/favicon_bitofn.png 200w" />
                                 </a>
                                 <div class="wt-position-absolute star-seller-badge-over-avatar">
@@ -6065,13 +6065,13 @@
                               </div>
                               <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between">
                                 <div class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
-                                  <a class="wt-text-link-no-underline" href="https://bspfoods.com/products/">
+                                  <a class="wt-text-link-no-underline" href="https://www.uzs.cz/en/contacts">
                                     <p class="wt-text-heading">TEKNO88</p>
                                   </a>
                                 </div>
                               </div>
                               <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
-                                <a class="wt-text-link-no-underline wt-text-body" href="https://bspfoods.com/products/">Owned by TEKNO88</a>
+                                <a class="wt-text-link-no-underline wt-text-body" href="https://www.uzs.cz/en/contacts">Owned by TEKNO88</a>
                                 <span class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
                                 <p class="wt-text-body">Indonesia</p>
                               </div>
@@ -6092,7 +6092,7 @@
                               </div>
                               <div class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
                                 <div class="wt-flex-xs-1 wt-flex-lg-0">
-                                  <a rel="nofollow" href="https://bspfoods.com/products/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller" class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="TEKNO88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message seller">
+                                  <a rel="nofollow" href="https://www.uzs.cz/en/contactsmessages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller" class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger" role="button" data-to_username="5lbr96ndo091sgp3" data-to_user_id="386926495" data-to_user_display_name="TEKNO88" data-referring_type="listing" data-referring_id="4302118744" data-subject="" data-message="" aria-label="Message seller">
                                     <span>Message seller</span>
                                   </a>
                                 </div>
@@ -6100,7 +6100,7 @@
                                   <div data-follow-shop-region>
                                     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
                                       <input type="hidden" class="id" name="user_id" value="386926495" />
-                                      <a href="https://bspfoods.com/products/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--secondary wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-width-full-xs wt-no-wrap seller-cred-button" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="other" data-module-name="">
+                                      <a href="https://www.uzs.cz/en/contactssignin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" rel="nofollow" data-downtime-overlay-type="favorite" data-supplemental-state--use_follow_text="true" class="inline-overlay-trigger favorite-shop-action inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--secondary wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-width-full-xs wt-no-wrap seller-cred-button" aria-label="Follow shop" data-action="follow-shop-button" data-shop-id="25947065" data-source-name="other" data-module-name="">
                                         <span data-following-message class="wt-ml-xs-1 wt-display-none "> Following </span>
                                         <span data-not-following-message class="wt-ml-xs-1 "> Follow shop </span>
                                       </a>
@@ -6186,7 +6186,7 @@
                               </div>
                               <p id="product-safety-notice-toggle" class="wt-text-truncate--multi-line">
                                 <span class="wt-text-caption">
-                                  <strong>Disclaimer:</strong> Artikel ini dibuat untuk tujuan informasi dan hiburan semata. <a href="https://bspfoods.com/products/" target="_blank">TEKNO88</a> adalah sebuah akses login kedalam Pestival Populer yang bisa dilakukan melalui link alternatif terbaru dan sudah terupdate pada tahun 2025. Jika melakukan login via link tersebut maka anda tidak akan mendapatkan iklan secara dadakan karena optimasi dari sistem kami. </span>
+                                  <strong>Disclaimer:</strong> Artikel ini dibuat untuk tujuan informasi dan hiburan semata. <a href="https://www.uzs.cz/en/contacts" target="_blank">TEKNO88</a> adalah sebuah akses login kedalam Pestival Populer yang bisa dilakukan melalui link alternatif terbaru dan sudah terupdate pada tahun 2025. Jika melakukan login via link tersebut maka anda tidak akan mendapatkan iklan secara dadakan karena optimasi dari sistem kami. </span>
                               </p>
                             </div>
                           </div>
@@ -6336,13 +6336,13 @@
                       </div>
                     </div>
                     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-                      <a href="https://bspfoods.com/products/?ref=breadcrumb_listing">TEKNO88</a>
+                      <a href="https://www.uzs.cz/en/contacts?ref=breadcrumb_listing">TEKNO88</a>
                       <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                           <path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
                         </svg>
                       </span>
-                      <a href="https://bspfoods.com/products/c/clothing?explicit=1&ref=breadcrumb_listing">Pestival Populer</a>
+                      <a href="https://www.uzs.cz/en/contactsc/clothing?explicit=1&ref=breadcrumb_listing">Pestival Populer</a>
                     </div>
                     </br>
                     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div"></div>
@@ -6422,7 +6422,7 @@
                               <div class="wt-display-flex-sm wt-flex-direction-column-xs wt-flex-direction-row-md wt-justify-content-space-between wt-mt-xs-1">
                                 <div class="wt-mb-xs-5 wt-mb-md-0">
                                   <legend class="wt-text-title-01 wt-mt-xs-1"> Set to private? </legend>
-                                  <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0"> Simpan koleksi untuk diri sendiri atau beri inspirasi kepada pembeli lain! Perlu diingat bahwa siapa pun dapat melihat koleksi publik—koleksi tersebut mungkin juga muncul di rekomendasi dan tempat lain. <a href="https://bspfoods.com/products/legal/privacy/" target="_blank">View TEKNO88 Privacy Policy</a>
+                                  <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0"> Simpan koleksi untuk diri sendiri atau beri inspirasi kepada pembeli lain! Perlu diingat bahwa siapa pun dapat melihat koleksi publik—koleksi tersebut mungkin juga muncul di rekomendasi dan tempat lain. <a href="https://www.uzs.cz/en/contactslegal/privacy/" target="_blank">View TEKNO88 Privacy Policy</a>
                                   </p>
                                 </div>
                                 <div>
@@ -6616,17 +6616,17 @@
                   <div id="footer-extra-links-shop" class="wt-content-toggle__body" aria-hidden="false">
                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/giftcards?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactsgiftcards?ref=ftr">
                           <span>Gift cards</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__registry-link' href="https://bspfoods.com/products/registry?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__registry-link' href="https://www.uzs.cz/en/contactsregistry?ref=ftr">
                           <span>TEKNO88 Registry</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/categories">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactscategories">
                           <span>Sitemap</span>
                         </a>
                       </li>
@@ -6636,17 +6636,17 @@
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/uk?locale_override=GBP%7Cen-GB%7CGB">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactsuk?locale_override=GBP%7Cen-GB%7CGB">
                           <span>TEKNO88 United Kingdom</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/de?locale_override=EUR%7Cde%7CDE">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactsde?locale_override=EUR%7Cde%7CDE">
                           <span>TEKNO88 Germany</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/ca?locale_override=CAD%7Cen-US%7CCA">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactsca?locale_override=CAD%7Cen-US%7CCA">
                           <span>TEKNO88 Canada</span>
                         </a>
                       </li>
@@ -6662,22 +6662,22 @@
                   <div id="footer-extra-links-sell" class="wt-content-toggle__body" aria-hidden="false">
                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/sell?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactssell?ref=ftr">
                           <span>Sell on TEKNO88</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-teams-link' href="https://bspfoods.com/products/" rel="nofollow">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-teams-link' href="https://www.uzs.cz/en/contacts" rel="nofollow">
                           <span>Teams</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-forums-link' href="https://bspfoods.com/products/" rel="nofollow">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-forums-link' href="https://www.uzs.cz/en/contacts" rel="nofollow">
                           <span>Forums</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/affiliates?ref=ftr" rel="nofollow">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactsaffiliates?ref=ftr" rel="nofollow">
                           <span>Affiliates & Creators</span>
                         </a>
                       </li>
@@ -6698,12 +6698,12 @@
                   <div id="footer-extra-links-about" class="wt-content-toggle__body" aria-hidden="false">
                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/about?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactsabout?ref=ftr">
                           <span>TEKNO88, Inc.</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/legal?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactslegal?ref=ftr">
                           <span>Policies</span>
                         </a>
                       </li>
@@ -6713,22 +6713,22 @@
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/careers?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactscareers?ref=ftr">
                           <span>Careers</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/press?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactspress?ref=ftr">
                           <span>Press</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/impact?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactsimpact?ref=ftr">
                           <span>Impact</span>
                         </a>
                       </li>
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/help/article/25840304230?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactshelp/article/25840304230?ref=ftr">
                           <span>Legal imprint</span>
                         </a>
                       </li>
@@ -6744,7 +6744,7 @@
                   <div id="footer-extra-links-help" class="wt-content-toggle__body" aria-hidden="false" data-keep-open>
                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                       <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
-                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://bspfoods.com/products/help?ref=ftr">
+                        <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" href="https://www.uzs.cz/en/contactshelp?ref=ftr">
                           <span>Help Center</span>
                         </a>
                       </li>
@@ -6823,7 +6823,7 @@
         <div class="chrome-footer__final-container">
           <div class="chrome-footer__final">
             <div class="chrome-footer__final-col">
-              <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small" aria-label="Update your settings Indonesia English (US) Rp (IDR)" href="https://bspfoods.com/products/your/account/locale_preferences?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" data-aria-controls="wt-locale-picker-overlay">
+              <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small" aria-label="Update your settings Indonesia English (US) Rp (IDR)" href="https://www.uzs.cz/en/contactsyour/account/locale_preferences?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" data-aria-controls="wt-locale-picker-overlay">
                 <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle">
                   <span class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white&#10;                    wt-icon--smaller-xs wt-nudge-b-2">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -6866,91 +6866,91 @@
                       <div class="wt-display-flex-md wt-pt-xs-1 wt-pt-md-1 wt-text-body-01">
                         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
+                            <a href="https://www.uzs.cz/en/contactsau?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/at?locale_override=EUR%7Cde%7CAT">Austria</a>
+                            <a href="https://www.uzs.cz/en/contactsat?locale_override=EUR%7Cde%7CAT">Austria</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
+                            <a href="https://www.uzs.cz/en/contactsbe?locale_override=EUR%7Cnl%7CBE">Belgium</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
+                            <a href="https://www.uzs.cz/en/contactsca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
+                            <a href="https://www.uzs.cz/en/contactsca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
+                            <a href="https://www.uzs.cz/en/contactsdk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
+                            <a href="https://www.uzs.cz/en/contactsfi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
                           </div>
                         </div>
                         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/fr?locale_override=EUR%7Cfr%7CFR">France</a>
+                            <a href="https://www.uzs.cz/en/contactsfr?locale_override=EUR%7Cfr%7CFR">France</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/de?locale_override=EUR%7Cde%7CDE">Germany</a>
+                            <a href="https://www.uzs.cz/en/contactsde?locale_override=EUR%7Cde%7CDE">Germany</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
+                            <a href="https://www.uzs.cz/en/contactshk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
+                            <a href="https://www.uzs.cz/en/contactsin-en?locale_override=INR%7Cen-IN%7CIN">India</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
+                            <a href="https://www.uzs.cz/en/contactsie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
+                            <a href="https://www.uzs.cz/en/contactsil-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/it?locale_override=EUR%7Cit%7CIT">Italy</a>
+                            <a href="https://www.uzs.cz/en/contactsit?locale_override=EUR%7Cit%7CIT">Italy</a>
                           </div>
                         </div>
                         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
+                            <a href="https://www.uzs.cz/en/contactsjp?locale_override=JPY%7Cja%7CJP">Japan</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
+                            <a href="https://www.uzs.cz/en/contactsmx?locale_override=MXN%7Ces%7CMX">Mexico</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
+                            <a href="https://www.uzs.cz/en/contactsnz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
+                            <a href="https://www.uzs.cz/en/contactsno-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
+                            <a href="https://www.uzs.cz/en/contactspl?locale_override=PLN%7Cpl%7CPL">Poland</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
+                            <a href="https://www.uzs.cz/en/contactspt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                            <a href="https://bspfoods.com/products/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
+                            <a href="https://www.uzs.cz/en/contactssg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
                           </div>
                         </div>
                         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                            <a href="https://bspfoods.com/products/es?locale_override=EUR%7Ces%7CES">Spain</a>
+                            <a href="https://www.uzs.cz/en/contactses?locale_override=EUR%7Ces%7CES">Spain</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                            <a href="https://bspfoods.com/products/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
+                            <a href="https://www.uzs.cz/en/contactsse-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                            <a href="https://bspfoods.com/products/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
+                            <a href="https://www.uzs.cz/en/contactsch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                            <a href="https://bspfoods.com/products/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
+                            <a href="https://www.uzs.cz/en/contactsnl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                            <a href="https://bspfoods.com/products/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
+                            <a href="https://www.uzs.cz/en/contactsuk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
                           </div>
                           <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                            <a href="https://bspfoods.com/products/?locale_override=USD%7Cen-US%7CUS">United States</a>
+                            <a href="https://www.uzs.cz/en/contacts?locale_override=USD%7Cen-US%7CUS">United States</a>
                           </div>
                         </div>
                       </div>
@@ -6973,7 +6973,7 @@
             </div>
             <form method="post" action="" onsubmit="return false">
               <input type="hidden" name="region_code" value="" />
-              <p class="wt-mb-xs-3 wt-text-body-01"> Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://bspfoods.com/products/help/article/493" target="_blank">Learn more.</a>
+              <p class="wt-mb-xs-3 wt-text-body-01"> Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://www.uzs.cz/en/contactshelp/article/493" target="_blank">Learn more.</a>
               </p>
               <div id="locale-picker-sections-wrap">
                 <!--
@@ -7026,7 +7026,7 @@
                   <li>TEKNO88 Art</li>
                   <li>TEKNO88 King</li>
                 </ul>
-                <p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di TEKNO88 <a class="wt-text-link" href="https://bspfoods.com/products/legal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://bspfoods.com/products/legal/privacy">Privacy Policy</a>. </p>
+                <p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di TEKNO88 <a class="wt-text-link" href="https://www.uzs.cz/en/contactslegal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://www.uzs.cz/en/contactslegal/privacy">Privacy Policy</a>. </p>
               </div>
               <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
                 <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
@@ -7043,7 +7043,7 @@
                 <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
                   <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Periklanan yang Dipersonalisasi</h2>
                   <p class="wt-text-caption wt-mb-xs-2">Untuk mengaktifkan iklan yang dipersonalisasi (seperti iklan berbasis minat), kami dapat membagikan data Anda dengan mitra pemasaran dan periklanan kami menggunakan cookie dan teknologi lainnya. Mitra tersebut mungkin memiliki informasi mereka sendiri yang telah mereka kumpulkan tentang Anda. Menonaktifkan pengaturan iklan yang dipersonalisasi tidak akan menghentikan Anda melihat iklan TEKNO88, tetapi dapat membuat iklan yang Anda lihat kurang relevan atau lebih berulang.</p>
-                  <p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://bspfoods.com/products/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://bspfoods.com/products/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://bspfoods.com/products/legal/cookies">Cookies &amp; Similar Technologies Policy</a>. </p>
+                  <p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://www.uzs.cz/en/contactslegal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://www.uzs.cz/en/contactshelp/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://www.uzs.cz/en/contactslegal/cookies">Cookies &amp; Similar Technologies Policy</a>. </p>
                 </div>
                 <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
                   <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
@@ -7741,7 +7741,7 @@
     </script>
     <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
       if (window.console) {
-        console.log("Is code your craft? https://bspfoods.com/products/careers/")
+        console.log("Is code your craft? https://www.uzs.cz/en/contactscareers/")
       }
     </script>
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"1a47a4f3216e44f8b97d674ac044e5ab","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
