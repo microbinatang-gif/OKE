@@ -129,7 +129,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://www.auc.ma/",
+  "url": "https://degrasan.net/",
   "name": "MAJALAH4D ♞ Situs Slot Gacor Hari Ini Dengan Rtp Slot Gampang Menang 2026",
   "sku": "4302118744",
   "description": "MAJALAH4D adalah akses situs slot gacor hari ini dengan RTP paling tinggi dengan tingkat kemenangan tertinggi untuk permainan slot gampang menang tahun 2026.",
@@ -225,7 +225,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://www.auc.ma/"
+      "item": "https://degrasan.net/"
     }
   ]
 }
@@ -237,27 +237,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.auc.ma/#org",
+      "@id": "https://degrasan.net/#org",
       "name": "MAJALAH4D",
-      "url": "https://www.auc.ma/",
+      "url": "https://degrasan.net/",
       "logo": "https://res.cloudinary.com/doa7wvin7/image/upload/v1769506681/ChatGPT_Image_Jul_15_2025_03_41_06_PM_lr3le7.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://www.auc.ma/#website",
-      "url": "https://www.auc.ma/",
+      "@id": "https://degrasan.net/#website",
+      "url": "https://degrasan.net/",
       "name": "MAJALAH4D",
-      "publisher": { "@id": "https://www.auc.ma/#org" },
+      "publisher": { "@id": "https://degrasan.net/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://www.auc.ma/?s={search_term_string}",
+        "target": "https://degrasan.net/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://www.auc.ma/#app",
+      "@id": "https://degrasan.net/#app",
       "name": "MAJALAH4D",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -284,7 +284,7 @@
         content="MAJALAH4D adalah akses situs slot gacor hari ini dengan RTP paling tinggi dengan tingkat kemenangan tertinggi untuk permainan slot gampang menang tahun 2026." />
     <meta property="og:type" content="product" />
     <meta property="og:url"
-        content="https://www.auc.ma/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" />
+        content="https://degrasan.net/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" />
     <meta property="og:image" content="https://res.cloudinary.com/doa7wvin7/image/upload/v1769506681/ChatGPT_Image_Jul_15_2025_03_41_06_PM_lr3le7.png" />
     <meta property="product:price:amount" content="22.50" />
     <meta property="product:price:currency" content="777" />
@@ -312,37 +312,37 @@
     <meta name="geo.placename" content="Indonesia">
     <meta name="webcrawlers" content="all" />
     <meta name="spiders" content="all" />
-    <link rel="canonical" href="https://www.auc.ma/" />
+    <link rel="canonical" href="https://degrasan.net/" />
     <link rel="amphtml" href="https://situsauc.pages.dev/" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-FI" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-AU" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-CA" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-DK" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-HK" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-IE" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-IL" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-IN" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-NZ" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-NO" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-SE" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-SG" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-GB" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="de" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="de-AT" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="de-CH" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="fr" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="fr-CA" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="nl" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="nl-BE" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="it" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="es" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="es-MX" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="ja" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="pl" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="pt" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="x-default" />
-    <link rel="alternate" href="https://www.auc.ma/" hreflang="en-US" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-FI" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-AU" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-CA" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-DK" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-HK" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-IE" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-IL" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-IN" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-NZ" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-NO" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-SE" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-SG" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-GB" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="de" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="de-AT" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="de-CH" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="fr" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="fr-CA" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="nl" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="nl-BE" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="it" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="es" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="es-MX" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="ja" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="pl" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="pt" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="x-default" />
+    <link rel="alternate" href="https://degrasan.net/" hreflang="en-US" />
 
     <script
         nonce="+gWSoSeB7oJ/5IB7H6o53UJw">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
@@ -422,7 +422,7 @@
                 <script
                     nonce="+gWSoSeB7oJ/5IB7H6o53UJw">!function (e) { var r = e.__etsy_logging; if (r && r.perf && r.perf.prefixMarkMeasure) { var n = r.perf.prefixMarkMeasure("logo_render"); e.performance && e.performance.mark && e.requestAnimationFrame((function () { setTimeout((function () { e.performance.mark(n) })) })) } }(window);</script>
                 <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
-                    <a href="https://www.auc.ma/" elementtiming="ux-global-nav">
+                    <a href="https://degrasan.net/" elementtiming="ux-global-nav">
                         <span class="wt-screen-reader-only">MAJALAH4D</span>
                         <img src="https://res.cloudinary.com/doa7wvin7/image/upload/v1758705892/logoweb_iejrcj.png" alt="situs MAJALAH4D" width="120"
                             height="62" style="object-fit: contain;"></a>
@@ -602,7 +602,7 @@
                             <li data-ge-nav-menu="cart" data-ge-hover-event-name="gnav_hover_cart_menu">
                                 <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch"
                                     data-wt-tooltip data-header-cart-button>
-                                    <a aria-label="Cart" href="https://www.auc.ma/cart?ref=hdr-cart"
+                                    <a aria-label="Cart" href="https://degrasan.net/cart?ref=hdr-cart"
                                         class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
                                         <span
                                             class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right"
@@ -637,7 +637,7 @@
                             data-menu-ui="menubar" data-ui="top-nav-category-list">
 
                             <li class="wt-mr-xs-3">
-                                <a href="https://www.auc.ma/" class="wt-btn wt-btn--transparent wt-btn--small "
+                                <a href="https://degrasan.net/" class="wt-btn wt-btn--transparent wt-btn--small "
                                     data-menu-ui="menuitem"data-ui="top-nav-category-link" data-node-id="-10">
                                     <span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3"><svg
                                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"focusable="false">
@@ -649,25 +649,25 @@
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://www.auc.ma/" class="wt-btn wt-btn--transparent wt-btn--small "
+                                <a href="https://degrasan.net/" class="wt-btn wt-btn--transparent wt-btn--small "
                                     data-menu-ui="menuitem" data-ui="top-nav-category-link">
                                     SITUS SLOT
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://www.auc.ma/" class="wt-btn wt-btn--transparent wt-btn--small "
+                                <a href="https://degrasan.net/" class="wt-btn wt-btn--transparent wt-btn--small "
                                     data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="2">
                                     SLOT
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://www.auc.ma/" class="wt-btn wt-btn--transparent wt-btn--small "
+                                <a href="https://degrasan.net/" class="wt-btn wt-btn--transparent wt-btn--small "
                                     data-menu-ui="menuitem" data-ui="top-nav-category-link" data-node-id="3">
                                     SLOT GACOR
                                 </a>
                             </li>
                             <li class="wt-mr-xs-3">
-                                <a href="https://www.auc.ma/" class="wt-btn wt-btn--transparent wt-btn--small "
+                                <a href="https://degrasan.net/" class="wt-btn wt-btn--transparent wt-btn--small "
                                     data-menu-ui="menuitem" data-ui="top-nav-category-link">
                                     RTP SLOT
                                 </a>
@@ -867,7 +867,7 @@
                             <li data-ui="list-item-breadcrumbs"
                                 class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
                                 <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0"
-                                    href="https://www.auc.ma/">MAJALAH4D</a>
+                                    href="https://degrasan.net/">MAJALAH4D</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"
                                         focusable="false">
@@ -878,7 +878,7 @@
                             <li data-ui="list-item-breadcrumbs"
                                 class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
                                 <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0"
-                                    href="https://www.auc.ma/">SLOT GACOR</a>
+                                    href="https://degrasan.net/">SLOT GACOR</a>
                             </li>
                             <pre> | </pre>
                             </li>
@@ -932,7 +932,7 @@
 
                                                     </span>
                                                 </button><div id="etsys_pick" role="tooltip">
-                                                    MAJALAH4D adalah akses situs slot gacor hari ini dengan RTP paling tinggi dengan tingkat kemenangan tertinggi untuk permainan slot gampang menang tahun 2026.<p class="wt-mt-xs-3"><a href="https://www.auc.ma/"
+                                                    MAJALAH4D adalah akses situs slot gacor hari ini dengan RTP paling tinggi dengan tingkat kemenangan tertinggi untuk permainan slot gampang menang tahun 2026.<p class="wt-mt-xs-3"><a href="https://degrasan.net/"
                                                             target="_blank"> RTP SLOT </a></p>
                                                 </div>
                                             </div>
@@ -2009,7 +2009,7 @@
 
                                     <div class="wt-mt-xs-1 wt-mb-xs-1">
                                         <h1 class="pdp-mod-product-badge-title">MAJALAH4D ♞ Situs Slot Gacor Hari Ini Dengan Rtp Slot Gampang Menang 2026</h1><br>
-                                        <p><a href="https://www.auc.ma/">MAJALAH4D</a> sekarang hadir sebagai situs slot online terpercaya yang menyediakan akses untuk login rtp slot gacor hari ini yang sudah resmi dengan tingkat kemenangan yang tinggi serta cepat untuk mendapatkan hasil yang besar serta pastinya akurat. melalui situs ini, setiap pemain bisa menikmati beragam jenis macam permainan dari situs slot gacor serta membaca semua informasi penting mengenai rtp slot gampang menang yang sudah disediakan disini. Selain itu, MAJALAH4D juga sudah dilengkapi dengan sistem keamanan tercanggih, sehingga semua proses transaksi pemain dalam hitungan detik maka akan selesai diproses dan bisa lanjut bermain. Demi menjaga keamanan serta kenyamanan setiap para membernya, kami menyediakan layanan pelanggan yang online selama 24 jam setiap harinya agar bisa membantu anda dalam menangani masalah yang anda hadapi. MAJALAH4D berkomitmen sebagai salah satu situs slot gacor hari ini serta menyediakan rtp slot gampang menang yang bisa kalian gunakan untuk mencari peluang emas.</p>
+                                        <p><a href="https://degrasan.net/">MAJALAH4D</a> sekarang hadir sebagai situs slot online terpercaya yang menyediakan akses untuk login rtp slot gacor hari ini yang sudah resmi dengan tingkat kemenangan yang tinggi serta cepat untuk mendapatkan hasil yang besar serta pastinya akurat. melalui situs ini, setiap pemain bisa menikmati beragam jenis macam permainan dari situs slot gacor serta membaca semua informasi penting mengenai rtp slot gampang menang yang sudah disediakan disini. Selain itu, MAJALAH4D juga sudah dilengkapi dengan sistem keamanan tercanggih, sehingga semua proses transaksi pemain dalam hitungan detik maka akan selesai diproses dan bisa lanjut bermain. Demi menjaga keamanan serta kenyamanan setiap para membernya, kami menyediakan layanan pelanggan yang online selama 24 jam setiap harinya agar bisa membantu anda dalam menangani masalah yang anda hadapi. MAJALAH4D berkomitmen sebagai salah satu situs slot gacor hari ini serta menyediakan rtp slot gampang menang yang bisa kalian gunakan untuk mencari peluang emas.</p>
                                         </div>
                                     <div class="wt-mb-xs-3">
                                         <div
@@ -2018,7 +2018,7 @@
         
     ">
                                                 <span class="wt-text-title-small">
-                                                    <a href="https://www.auc.ma/"
+                                                    <a href="https://degrasan.net/"
                                                         class="wt-text-link-no-underline wt-sem-text-primary">
                                                         SLOT
                                                     </a>
@@ -4569,7 +4569,7 @@
                                                                                 </svg></span></div>
                                                                         <div
                                                                             class="wt-ml-xs-1 how-its-made-label-product-details">
-                                                                            Designed by <ahref="https://www.auc.ma/"
+                                                                            Designed by <ahref="https://degrasan.net/"
                                                                                 target="_blank"
                                                                                 class="wt-text-link-no-underline wt-text-title">MAJALAH4D</a>
                                                                         </div>
@@ -4780,7 +4780,7 @@
                                                                                                         Jika anda
                                                                                                         bermain dan
                                                                                                         dapat situs <a
-                                                                                                            href='https://www.auc.ma/'
+                                                                                                            href='https://degrasan.net/'
                                                                                                             target='_blank'>SLOT
                                                                                                             Slot</a>
                                                                                                         yang memiliki
@@ -5951,7 +5951,7 @@
                                                                             mengetahui jika terjadi kesalahan pada
                                                                             pesanan, kami siap membantu Anda untuk semua
                                                                             pembelian yang memenuhi syarat —
-                                                                            <a href="https://www.auc.ma/"
+                                                                            <a href="https://degrasan.net/"
                                                                                 target="_blank" class="wt-text-link">
                                                                                 see program terms
                                                                             </a>
@@ -6052,14 +6052,14 @@
                                                                         class="wt-text-heading-small wt-line-height-tight wt-mb-lg-1">
                                                                         MAJALAH4D</p>
                                                                     <p class=" wt-sem-text-primary wt-text-caption">
-                                                                        Owner of <a href='https://www.auc.ma/'
+                                                                        Owner of <a href='https://degrasan.net/'
                                                                             class='wt-text-link'>SLOT GACOR</a>
                                                                     </p><div data-follow-shop-region>
                                                                         <div data-action="follow-shop-button-container"
                                                                             class="wt-display-flex-xs wt-align-items-center">
                                                                             <input type="hidden" class="id"
                                                                                 name="user_id" value="386926495" />
-                                                                            <a href="https://www.auc.ma/"
+                                                                            <a href="https://degrasan.net/"
                                                                                 rel="nofollow"
                                                                                 data-downtime-overlay-type="favorite"
                                                                                 data-supplemental-state--use_follow_text="true"
@@ -6104,7 +6104,7 @@
                                                                 </div>
                                                             </div>
                                                             <a rel="nofollow"
-                                                                href="https://www.auc.ma/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+                                                                href="https://degrasan.net/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
                                                                 class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger"
                                                                 role="button" data-to_username="5lbr96ndo091sgp3"
                                                                 data-to_user_id="386926495"
@@ -6213,7 +6213,7 @@
                                                             <p class="wt-mb-xs-2 wt-mt-xs-2">
                                                                 Need to get in touch with the seller? Try <a
                                                                     rel="nofollow"
-                                                                    href="https://www.auc.ma/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
+                                                                    href="https://degrasan.net/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
                                                                     class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger"
                                                                     role="button" data-to_username="MAJALAH4D"
                                                                     data-to_user_id="386926495"
@@ -7483,35 +7483,35 @@
                                                                         </svg></span>
                                                                 </a>
                                                             </div><div class="wt-action-group__item-container">
-                                                                <a href="https://www.auc.ma/?ref=pagination&page=1"
+                                                                <a href="https://degrasan.net/?ref=pagination&page=1"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
                                                                     aria-current="true">
                                                                     <span>1</span>
                                                                 </a>
                                                             </div>
                                                             <div class="wt-action-group__item-container">
-                                                                <a href="https://www.auc.ma/?ref=pagination&page=2"
+                                                                <a href="https://degrasan.net/?ref=pagination&page=2"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                                                                     data-page="2">
                                                                     <span>2</span>
                                                                 </a>
                                                             </div>
                                                             <div class="wt-action-group__item-container">
-                                                                <a href="https://www.auc.ma/?ref=pagination&page=3"
+                                                                <a href="https://degrasan.net/?ref=pagination&page=3"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                                                                     data-page="3">
                                                                     <span>3</span>
                                                                 </a>
                                                             </div>
                                                             <div class="wt-action-group__item-container">
-                                                                <a href="https://www.auc.ma/?ref=pagination&page=4"
+                                                                <a href="https://degrasan.net/?ref=pagination&page=4"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                                                                     data-page="4">
                                                                     <span>4</span>
                                                                 </a>
                                                             </div>
                                                             <div class="wt-action-group__item-container">
-                                                                <a href="https://www.auc.ma/?ref=pagination&page=5"
+                                                                <a href="https://degrasan.net/?ref=pagination&page=5"
                                                                     class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                                                                     data-page="5">
                                                                     <span>5</span>
@@ -7521,7 +7521,7 @@
 
                                                             <div class="wt-action-group__item-container">
                                                                 <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon "
-                                                                    href="https://www.auc.ma/?ref=pagination&page=2"
+                                                                    href="https://degrasan.net/?ref=pagination&page=2"
                                                                     data-page="2">
                                                                     <span class="wt-screen-reader-only">Next page</span>
                                                                     <span class="wt-icon wt-icon--smaller"><svg
@@ -7834,7 +7834,7 @@
                                                             <div
                                                                 class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
                                                                 <a class="wt-text-link-no-underline"
-                                                                    href="https://www.auc.ma/shop/">
+                                                                    href="https://degrasan.net/shop/">
                                                                     <p class="wt-text-heading">MAJALAH4D</p>
                                                                 </a>
                                                             </div>
@@ -7843,7 +7843,7 @@
                                                         <div
                                                             class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
                                                             <a class="wt-text-link-no-underline wt-text-body"
-                                                                href="https://www.auc.ma/">Owned by SLOT GACOR</a>
+                                                                href="https://degrasan.net/">Owned by SLOT GACOR</a>
                                                             <span
                                                                 class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
                                                             <p class="wt-text-body">Indonesia</p>
@@ -7881,7 +7881,7 @@
                                                         <div
                                                             class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
                                                             <div class="wt-flex-xs-1 wt-flex-lg-0"><a rel="nofollow"
-                                                                    href="https://www.auc.ma/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+                                                                    href="https://degrasan.net/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
                                                                     class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger"
                                                                     role="button" data-to_username="5lbr96ndo091sgp3"
                                                                     data-to_user_id="386926495"
@@ -7901,7 +7901,7 @@
                                                                         class="wt-display-flex-xs wt-align-items-center">
                                                                         <input type="hidden" class="id" name="user_id"
                                                                             value="386926495" />
-                                                                        <a href="https://www.auc.ma/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Fhttps://www.auc.ma/%2Fpost"
+                                                                        <a href="https://degrasan.net/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Fhttps://degrasan.net/%2Fpost"
                                                                             rel="nofollow"
                                                                             data-downtime-overlay-type="favorite"data-supplemental-state--use_follow_text="true"
                                                                             class="inline-overlay-trigger favorite-shop-action inline-overlay-trigger favorite-shop-action wt-btn wt-btn--small wt-btn--secondary wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-width-full-xs wt-no-wrap seller-cred-button"
@@ -8275,14 +8275,14 @@
                                     </div>
 
                                     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-                                        <a href="https://www.auc.ma/">MAJALAH4D</a>
+                                        <a href="https://degrasan.net/">MAJALAH4D</a>
                                         <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg
                                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
                                                 aria-hidden="true" focusable="false">
                                                 <path
                                                     d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
                                             </svg></span>
-                                        <a href="https://www.auc.ma/c/clothing?explicit=1&ref=breadcrumb_listing">SLOT</a>
+                                        <a href="https://degrasan.net/c/clothing?explicit=1&ref=breadcrumb_listing">SLOT</a>
                                     </div></br>
 
                                     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
@@ -8415,7 +8415,7 @@
                                                                     siapa pun dapat melihat koleksi publik—koleksi
                                                                     tersebut mungkin juga muncul di rekomendasi dan
                                                                     tempat lain.
-                                                                    <a href="https://www.auc.ma/legal/privacy/"
+                                                                    <a href="https://degrasan.net/legal/privacy/"
                                                                         target="_blank">View MAJALAH4D Privacy Policy</a>
                                                                 </p>
                                                             </div>
@@ -8613,7 +8613,7 @@
         <footer>
             <div class="chrome-footer__etsy-finds">
                 <div class="wt-text-center-xs wt-pl-xs-4 wt-pr-xs-4 wt-pt-xs-3 wt-pt-md-6">
-                    <form action="/email-subscriptions/form?from_page=https%3A%2F%2Fhttps://www.auc.ma/%2Fpost"
+                    <form action="/email-subscriptions/form?from_page=https%3A%2F%2Fhttps://degrasan.net/%2Fpost"
                         method="POST" class="subscribe-form not-signed-in" data-finds-form>
 
                         <input type="hidden" name="campaign_name" value="" />
@@ -8672,13 +8672,13 @@
                             <div class="wt-alert wt-alert--inline wt-alert--status-01 wt-display-none wt-text-body-01"
                                 role="alert" aria-live="polite" data-requires-signin data-submission-response>
                                 Looks like you already have an account! Please <a
-                                    href="/signin?from_page=https%3A%2F%2Fhttps://www.auc.ma/%2Fpost&workflow=c3Vic2NyaWJlX3RvX2VtYWlsX2xpc3Q6bmV3X2F0X2V0c3k6MTc1NzQ0NDUzMjo0OTNlMDMyODRlNDBmMjk5MmMwNjRiNDZiMzdmMTk4Nw=="
+                                    href="/signin?from_page=https%3A%2F%2Fhttps://degrasan.net/%2Fpost&workflow=c3Vic2NyaWJlX3RvX2VtYWlsX2xpc3Q6bmV3X2F0X2V0c3k6MTc1NzQ0NDUzMjo0OTNlMDMyODRlNDBmMjk5MmMwNjRiNDZiMzdmMTk4Nw=="
                                     data-campaign-slug="new_at_etsy">Log in</a> to subscribe.
                             </div>
                             <div class="wt-alert wt-alert--inline wt-alert--status-01 wt-display-none wt-text-body-01"
                                 role="alert" aria-live="polite" data-requires-signup data-submission-response>
                                 You've already signed up for some newsletters, but you haven't confirmed your address.
-                                <a href="/join?from_url=https%3A%2F%2Fhttps://www.auc.ma/%2Fpost" class=""
+                                <a href="/join?from_url=https%3A%2F%2Fhttps://degrasan.net/%2Fpost" class=""
                                     data-campaign-slug="new_at_etsy">Register</a> to confirm your address.
                             </div>
                             <div class="wt-alert wt-alert--inline wt-alert--success-01 wt-display-none wt-text-body-01"
@@ -8762,48 +8762,48 @@
                                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/">
+                                                href="https://degrasan.net/">
 
                                                 <span>MAJALAH4D</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"id='collage-footer__registry-link'
-                                                href="https://www.auc.ma/">
+                                                href="https://degrasan.net/">
 
                                                 <span>SITUS SLOT</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/">
+                                                href="https://degrasan.net/">
 
                                                 <span>SLOT</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/">
+                                                href="https://degrasan.net/">
 
                                                 <span>SLOT GACOR</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/">
+                                                href="https://degrasan.net/">
 
                                                 <span>RTP SLOT</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/">
+                                                href="https://degrasan.net/">
 
                                                 <span>SLOT SLOT</span></a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/">
+                                                href="https://degrasan.net/">
 
                                                 <span>T0TO 4D</span>
                                             </a>
@@ -8833,7 +8833,7 @@
                                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/sell?ref=ftr">
+                                                href="https://degrasan.net/sell?ref=ftr">
 
                                                 <span>Sell on MAJALAH4D</span>
                                             </a>
@@ -8841,7 +8841,7 @@
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
                                                 id='collage-footer__community-teams-link'
-                                                href="https://www.auc.ma/" rel="nofollow">
+                                                href="https://degrasan.net/" rel="nofollow">
 
                                                 <span>Teams</span>
                                             </a>
@@ -8849,14 +8849,14 @@
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
                                                 id='collage-footer__community-forums-link'
-                                                href="https://www.auc.ma/" rel="nofollow">
+                                                href="https://degrasan.net/" rel="nofollow">
 
                                                 <span>Forums</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/affiliates?ref=ftr" rel="nofollow">
+                                                href="https://degrasan.net/affiliates?ref=ftr" rel="nofollow">
 
                                                 <span>Affiliates & Creators</span>
                                             </a>
@@ -8886,14 +8886,14 @@
                                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/about?ref=ftr">
+                                                href="https://degrasan.net/about?ref=ftr">
 
                                                 <span>MAJALAH4D, Inc.</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/legal?ref=ftr">
+                                                href="https://degrasan.net/legal?ref=ftr">
 
                                                 <span>Policies</span>
                                             </a>
@@ -8907,27 +8907,27 @@
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/careers?ref=ftr">
+                                                href="https://degrasan.net/careers?ref=ftr">
 
                                                 <span>Careers</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/press?ref=ftr">
+                                                href="https://degrasan.net/press?ref=ftr">
 
                                                 <span>Press</span>
                                             </a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/impact?ref=ftr">
+                                                href="https://degrasan.net/impact?ref=ftr">
 
                                                 <span>Impact</span></a>
                                         </li>
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/help/article/25840304230?ref=ftr">
+                                                href="https://degrasan.net/help/article/25840304230?ref=ftr">
 
                                                 <span>Legal imprint</span>
                                             </a>
@@ -8957,7 +8957,7 @@
                                     <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                                         <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                                             <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline"
-                                                href="https://www.auc.ma/help?ref=ftr">
+                                                href="https://degrasan.net/help?ref=ftr">
 
                                                 <span>Help Center</span>
                                             </a>
@@ -9063,7 +9063,7 @@
                         <a id="locale-picker-trigger"
                             class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small"
                             aria-label="Update your settings Indonesia English (US) Rp (IDR)"
-                            href="https://www.auc.ma/your/account/locale_preferences?from_page=https%3A%2F%2Fhttps://www.auc.ma/%2Fpost"
+                            href="https://degrasan.net/your/account/locale_preferences?from_page=https%3A%2F%2Fhttps://degrasan.net/%2Fpost"
                             data-aria-controls="wt-locale-picker-overlay">
                             <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle"> <span
                                     class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white&#10;                    wt-icon--smaller-xs wt-nudge-b-2"><svg
@@ -9133,144 +9133,144 @@
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
+                                                        href="https://degrasan.net/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/at?locale_override=EUR%7Cde%7CAT">Austria</a>
+                                                        href="https://degrasan.net/at?locale_override=EUR%7Cde%7CAT">Austria</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
+                                                        href="https://degrasan.net/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
+                                                        href="https://degrasan.net/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                                                    <ahref="https://www.auc.ma/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada
+                                                    <ahref="https://degrasan.net/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada
                                                         (French)</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
+                                                        href="https://degrasan.net/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
+                                                        href="https://degrasan.net/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
                                                 </div>
                                             </div>
                                             <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/fr?locale_override=EUR%7Cfr%7CFR">France</a>
+                                                        href="https://degrasan.net/fr?locale_override=EUR%7Cfr%7CFR">France</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space"><a
-                                                        href="https://www.auc.ma/de?locale_override=EUR%7Cde%7CDE">Germany</a>
+                                                        href="https://degrasan.net/de?locale_override=EUR%7Cde%7CDE">Germany</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong
+                                                        href="https://degrasan.net/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong
                                                         Kong</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
+                                                        href="https://degrasan.net/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
+                                                        href="https://degrasan.net/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
+                                                        href="https://degrasan.net/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/it?locale_override=EUR%7Cit%7CIT">Italy</a>
+                                                        href="https://degrasan.net/it?locale_override=EUR%7Cit%7CIT">Italy</a>
                                                 </div>
                                             </div>
                                             <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
+                                                        href="https://degrasan.net/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
+                                                        href="https://degrasan.net/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/nz?locale_override=NZD%7Cen-GB%7CNZ">New
+                                                        href="https://degrasan.net/nz?locale_override=NZD%7Cen-GB%7CNZ">New
                                                         Zealand</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
+                                                        href="https://degrasan.net/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
+                                                        href="https://degrasan.net/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
+                                                        href="https://degrasan.net/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
                                                     <a
-                                                        href="https://www.auc.ma/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
+                                                        href="https://degrasan.net/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
                                                 </div>
                                             </div>
                                             <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://www.auc.ma/es?locale_override=EUR%7Ces%7CES">Spain</a>
+                                                        href="https://degrasan.net/es?locale_override=EUR%7Ces%7CES">Spain</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://www.auc.ma/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
+                                                        href="https://degrasan.net/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://www.auc.ma/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
+                                                        href="https://degrasan.net/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                                                    <a href="https://www.auc.ma/nl?locale_override=EUR%7Cnl%7CNL">The
+                                                    <a href="https://degrasan.net/nl?locale_override=EUR%7Cnl%7CNL">The
                                                         Netherlands</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                                                    <ahref="https://www.auc.ma/uk?locale_override=GBP%7Cen-GB%7CGB">United
+                                                    <ahref="https://degrasan.net/uk?locale_override=GBP%7Cen-GB%7CGB">United
                                                         Kingdom</a>
                                                 </div>
                                                 <div
                                                     class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
                                                     <a
-                                                        href="https://www.auc.ma/?locale_override=USD%7Cen-US%7CUS">UnitedStates</a>
+                                                        href="https://degrasan.net/?locale_override=USD%7Cen-US%7CUS">UnitedStates</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -9315,7 +9315,7 @@
 
                         <p class="wt-mb-xs-3 wt-text-body-01">
                             Set where you live, what language you speak, and the currency you use. <a
-                                class="wt-text-link" href="https://www.auc.ma/help/article/493"
+                                class="wt-text-link" href="https://degrasan.net/help/article/493"
                                 target="_blank">Learn more.</a>
                         </p>
 
@@ -9695,9 +9695,9 @@
                             </ul>
                             <p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat
                                 ditemukan di MAJALAH4D <a class="wt-text-link"
-                                    href="https://www.auc.ma//legal/cookies-and-tracking-technologies">Kebijakan
+                                    href="https://degrasan.net//legal/cookies-and-tracking-technologies">Kebijakan
                                     Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link"
-                                    href="https://www.auc.ma//legal/privacy">Privacy Policy</a>.</p>
+                                    href="https://degrasan.net//legal/privacy">Privacy Policy</a>.</p>
                         </div>
 
                         <div
@@ -9734,11 +9734,11 @@
                                     dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar.
                                     Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak
                                     Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link"
-                                        href="https://www.auc.ma//legal/privacy/">Privacy Policy.</a>, <a
+                                        href="https://degrasan.net//legal/privacy/">Privacy Policy.</a>, <a
                                         class="wt-text-link"
-                                        href="https://www.auc.ma//help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help
+                                        href="https://degrasan.net//help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help
                                         Center</a>, dan <a class="wt-text-link"
-                                        href="https://www.auc.ma//legal/cookies">Cookies &amp; Similar Technologies
+                                        href="https://degrasan.net//legal/cookies">Cookies &amp; Similar Technologies
                                         Policy</a>.</p>
                             </div>
                             <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
