@@ -116,7 +116,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://ivaa-online.org/program/",
+  "url": "https://library.ivaa-online.org/",
   "name": "MAJALAH4D : Platform Situs Slot Toto 4D Resmi & Bandar Togel Terbesar",
   "sku": "4302118744",
   "description": "MAJALAH4D adalah salah satu platform terbaik situs slot toto 4d resmi serta bandar togel online terbesar di tahun 2026 ini. Majalah4D ini juga sudah banyak diperbincangkan oleh para komunitas pemain online!",
@@ -212,7 +212,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://ivaa-online.org/program/"
+      "item": "https://library.ivaa-online.org/"
     }
   ]
 }
@@ -224,27 +224,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://ivaa-online.org/program/#org",
+      "@id": "https://library.ivaa-online.org/#org",
       "name": "TOTO",
-      "url": "https://ivaa-online.org/program/",
+      "url": "https://library.ivaa-online.org/",
       "logo": "https://res.cloudinary.com/doa7wvin7/image/upload/v1770293025/cded60ac-16e4-4779-ac3f-70baf9694eab_brgacl.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://ivaa-online.org/program/#website",
-      "url": "https://ivaa-online.org/program/",
+      "@id": "https://library.ivaa-online.org/#website",
+      "url": "https://library.ivaa-online.org/",
       "name": "TOTO",
-      "publisher": { "@id": "https://ivaa-online.org/program/#org" },
+      "publisher": { "@id": "https://library.ivaa-online.org/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://ivaa-online.org/program/?s={search_term_string}",
+        "target": "https://library.ivaa-online.org/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://ivaa-online.org/program/#app",
+      "@id": "https://library.ivaa-online.org/#app",
       "name": "TOTO",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -258,7 +258,7 @@
         <meta name="twitter:site" content="@TOTO" value="" /><meta name="twitter:card" content="summary_large_image" value="" /><meta name="twitter:app:name:iphone" content="TOTO" value="" /><meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:iphone" content="477128284" value="" /><meta name="twitter:app:name:ipad" content="TOTO" value="" /><meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:ipad" content="477128284" value="" /><meta name="twitter:app:name:googleplay" content="TOTO" value="" /><meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
 <meta property="og:title" content="MAJALAH4D : Platform Situs Slot Toto 4D Resmi & Bandar Togel Terbesar" />
 <meta property="og:description" content="MAJALAH4D adalah salah satu platform terbaik situs slot toto 4d resmi serta bandar togel online terbesar di tahun 2026 ini. Majalah4D ini juga sudah banyak diperbincangkan oleh para komunitas pemain online!" />
-<meta property="og:type" content="product" /><meta property="og:url" content="https://ivaa-online.org/program/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" /><meta property="og:image" content="https://res.cloudinary.com/doa7wvin7/image/upload/v1770293025/cded60ac-16e4-4779-ac3f-70baf9694eab_brgacl.png" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="777" />
+<meta property="og:type" content="product" /><meta property="og:url" content="https://library.ivaa-online.org/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" /><meta property="og:image" content="https://res.cloudinary.com/doa7wvin7/image/upload/v1770293025/cded60ac-16e4-4779-ac3f-70baf9694eab_brgacl.png" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="777" />
 
         
 
@@ -276,9 +276,9 @@
             <meta name="geo.placename" content="Indonesia">
             <meta name="webcrawlers" content="all"/>
             <meta name="spiders" content="all"/>
-            <link rel="canonical" href="https://ivaa-online.org/program/" />
+            <link rel="canonical" href="https://library.ivaa-online.org/" />
             <link rel="amphtml" href="http://ivaa.pages.dev/" />
-<link rel="alternate" href="https://ivaa-online.org/program/" hreflang="en" /><link rel="alternate" href="https://ivaa-online.org/program/fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://ivaa-online.org/program/au/" hreflang="en-AU" /><link rel="alternate" href="https://ivaa-online.org/program/ca/" hreflang="en-CA" /><link rel="alternate" href="https://ivaa-online.org/program/dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://ivaa-online.org/program/hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://ivaa-online.org/program/ie/" hreflang="en-IE" /><link rel="alternate" href="https://ivaa-online.org/program/il-en/" hreflang="en-IL" /><link rel="alternate" href="https://ivaa-online.org/program/in-en/" hreflang="en-IN" /><link rel="alternate" href="https://ivaa-online.org/program/nz/" hreflang="en-NZ" /><link rel="alternate" href="https://ivaa-online.org/program/no-en/" hreflang="en-NO" /><link rel="alternate" href="https://ivaa-online.org/program/se-en/" hreflang="en-SE" /><link rel="alternate" href="https://ivaa-online.org/program/sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://ivaa-online.org/program/uk/" hreflang="en-GB" /><link rel="alternate" href="https://ivaa-online.org/program/de/" hreflang="de" /><link rel="alternate" href="https://ivaa-online.org/program/at/" hreflang="de-AT" /><link rel="alternate" href="https://ivaa-online.org/program/ch/" hreflang="de-CH" /><link rel="alternate" href="https://ivaa-online.org/program/fr/" hreflang="fr" /><link rel="alternate" href="https://ivaa-online.org/program/ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://ivaa-online.org/program/nl/" hreflang="nl" /><link rel="alternate" href="https://ivaa-online.org/program/be/" hreflang="nl-BE" /><link rel="alternate" href="https://ivaa-online.org/program/it/" hreflang="it" /><link rel="alternate" href="https://ivaa-online.org/program/es/" hreflang="es" /><link rel="alternate" href="https://ivaa-online.org/program/mx/" hreflang="es-MX" /><link rel="alternate" href="https://ivaa-online.org/program/jp/" hreflang="ja" /><link rel="alternate" href="https://ivaa-online.org/program/pl/" hreflang="pl" /><link rel="alternate" href="https://ivaa-online.org/program/pt/" hreflang="pt" /><link rel="alternate" href="https://ivaa-online.org/program/" hreflang="x-default" /><link rel="alternate" href="https://ivaa-online.org/program/" hreflang="en-US" />
+<link rel="alternate" href="https://library.ivaa-online.org/" hreflang="en" /><link rel="alternate" href="https://library.ivaa-online.org/fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://library.ivaa-online.org/au/" hreflang="en-AU" /><link rel="alternate" href="https://library.ivaa-online.org/ca/" hreflang="en-CA" /><link rel="alternate" href="https://library.ivaa-online.org/dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://library.ivaa-online.org/hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://library.ivaa-online.org/ie/" hreflang="en-IE" /><link rel="alternate" href="https://library.ivaa-online.org/il-en/" hreflang="en-IL" /><link rel="alternate" href="https://library.ivaa-online.org/in-en/" hreflang="en-IN" /><link rel="alternate" href="https://library.ivaa-online.org/nz/" hreflang="en-NZ" /><link rel="alternate" href="https://library.ivaa-online.org/no-en/" hreflang="en-NO" /><link rel="alternate" href="https://library.ivaa-online.org/se-en/" hreflang="en-SE" /><link rel="alternate" href="https://library.ivaa-online.org/sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://library.ivaa-online.org/uk/" hreflang="en-GB" /><link rel="alternate" href="https://library.ivaa-online.org/de/" hreflang="de" /><link rel="alternate" href="https://library.ivaa-online.org/at/" hreflang="de-AT" /><link rel="alternate" href="https://library.ivaa-online.org/ch/" hreflang="de-CH" /><link rel="alternate" href="https://library.ivaa-online.org/fr/" hreflang="fr" /><link rel="alternate" href="https://library.ivaa-online.org/ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://library.ivaa-online.org/nl/" hreflang="nl" /><link rel="alternate" href="https://library.ivaa-online.org/be/" hreflang="nl-BE" /><link rel="alternate" href="https://library.ivaa-online.org/it/" hreflang="it" /><link rel="alternate" href="https://library.ivaa-online.org/es/" hreflang="es" /><link rel="alternate" href="https://library.ivaa-online.org/mx/" hreflang="es-MX" /><link rel="alternate" href="https://library.ivaa-online.org/jp/" hreflang="ja" /><link rel="alternate" href="https://library.ivaa-online.org/pl/" hreflang="pl" /><link rel="alternate" href="https://library.ivaa-online.org/pt/" hreflang="pt" /><link rel="alternate" href="https://library.ivaa-online.org/" hreflang="x-default" /><link rel="alternate" href="https://library.ivaa-online.org/" hreflang="en-US" />
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
 
@@ -554,7 +554,7 @@
     data-ge-hover-event-name="gnav_hover_cart_menu"
 >
     <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
-        <a aria-label="Cart" href="https://ivaa-online.org/program/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
+        <a aria-label="Cart" href="https://library.ivaa-online.org/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
             <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
                 0
             </span>
@@ -579,7 +579,7 @@
                       
                       <li class="wt-mr-xs-3">
   <a
-    href="https://ivaa-online.org/program/"
+    href="https://library.ivaa-online.org/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -591,7 +591,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://ivaa-online.org/program/"
+    href="https://library.ivaa-online.org/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -601,7 +601,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://ivaa-online.org/program/"
+    href="https://library.ivaa-online.org/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -611,7 +611,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://ivaa-online.org/program/"
+    href="https://library.ivaa-online.org/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -621,7 +621,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://ivaa-online.org/program/"
+    href="https://library.ivaa-online.org/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -811,11 +811,11 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ivaa-online.org/program/">MAJALAH4D</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://library.ivaa-online.org/">MAJALAH4D</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ivaa-online.org/program/">SLOT TOTO</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://library.ivaa-online.org/">SLOT TOTO</a>
                         </li>
                            <pre> | </pre> 
                          </li>   
@@ -863,7 +863,7 @@ if (clientloggerIsEnabled) {
 </span>
     </button>
     <div id="etsys_pick" role="tooltip">
-        MAJALAH4D adalah salah satu platform terbaik situs slot toto 4d resmi serta bandar togel online terbesar di tahun 2026 ini. Majalah4D ini juga sudah banyak diperbincangkan oleh para komunitas pemain online! <p class="wt-mt-xs-3"><a href="https://ivaa-online.org/program/" target="_blank"> SLOT TOTO </a></p>
+        MAJALAH4D adalah salah satu platform terbaik situs slot toto 4d resmi serta bandar togel online terbesar di tahun 2026 ini. Majalah4D ini juga sudah banyak diperbincangkan oleh para komunitas pemain online! <p class="wt-mt-xs-3"><a href="https://library.ivaa-online.org/" target="_blank"> SLOT TOTO </a></p>
     </div>
 </div>
         </div>
@@ -1721,7 +1721,7 @@ if (clientloggerIsEnabled) {
 </div>
 
 <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-        <a class="wt-text-link wt-text-link-underline" href="https://ivaa-online.org/program/signin?from_page=https%3A%2F%2Fhttps://ivaa-online.org/program/%2Fpost">
+        <a class="wt-text-link wt-text-link-underline" href="https://library.ivaa-online.org/signin?from_page=https%3A%2F%2Fhttps://library.ivaa-online.org/%2Fpost">
         <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"/></svg></span>Report this item to MAJALAH4D
     </a>
     </div>
@@ -2012,7 +2012,7 @@ if (clientloggerIsEnabled) {
         
     ">
         <span class="wt-text-title-small">
-    <a href="https://ivaa-online.org/program/" class="wt-text-link-no-underline wt-sem-text-primary">
+    <a href="https://library.ivaa-online.org/" class="wt-text-link-no-underline wt-sem-text-primary">
         SLOT TOTO TERPERCAYA
     </a>
 </span>
@@ -4668,7 +4668,7 @@ if (clientloggerIsEnabled) {
 <li class="wt-block-grid__item wt-display-flex-xs wt-align-items-flex-start">
             <div><span class="wt-icon wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4.5 8v7H3v5h5v-1.25h2.5v-2H8V15H6.5V8H8V6.5h7V8h1.75v2.457l2 1.714V8H20V3h-5v1.5H8V3H3v5z"/><path d="m12.39 9.129 9.273 7.971-4.17.29 1.378 3-2.272 1.043-1.36-2.962-2.854 2.887z"/></svg></span></div>
         <div class="wt-ml-xs-1 how-its-made-label-product-details">
-                Designed by <a href="https://ivaa-online.org/program/" target="_blank" class="wt-text-link-no-underline wt-text-title">TOTO</a>
+                Designed by <a href="https://library.ivaa-online.org/" target="_blank" class="wt-text-link-no-underline wt-text-title">TOTO</a>
         </div>
 </li>
 </div>
@@ -4816,7 +4816,7 @@ if (clientloggerIsEnabled) {
             </button>
             <div id="shipping-highlights-estimated-delivery-date-popover" role="tooltip">
                 <p class="wt-text-caption wt-mb-xs-1">
-                    Bermain di situs <a href='https://ivaa-online.org/program/' target='_blank'>SLOT TOTO</a> anda akan mendapatkan bonus sangat menarik.
+                    Bermain di situs <a href='https://library.ivaa-online.org/' target='_blank'>SLOT TOTO</a> anda akan mendapatkan bonus sangat menarik.
                 </p>
                 <span class="wt-popover__arrow"></span>
             </div>
@@ -5300,7 +5300,7 @@ if (clientloggerIsEnabled) {
             <br>
             Berbelanja sangat menyenangkan di MAJALAH4D, Infokan jika terjadi kesalahan pada pesanan, kami siap membantu Anda untuk semua pembelian yang memenuhi syarat —
             <a 
-               href="https://ivaa-online.org/program/"
+               href="https://library.ivaa-online.org/"
                target="_blank"
                class="wt-text-link">
                 see program terms
@@ -5387,13 +5387,13 @@ if (clientloggerIsEnabled) {
     <div>
         <p class="wt-text-heading-small wt-line-height-tight wt-mb-lg-1">SLOT TOTO</p>
         <p class=" wt-sem-text-primary wt-text-caption">
-            Owner of <a href='https://ivaa-online.org/program/' class='wt-text-link'>MAJALAH4D</a>
+            Owner of <a href='https://library.ivaa-online.org/' class='wt-text-link'>MAJALAH4D</a>
         </p>
         <div data-follow-shop-region>
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495"/>
             <a
-                href="https://ivaa-online.org/program/"
+                href="https://library.ivaa-online.org/"
                 rel="nofollow"
                 data-downtime-overlay-type="favorite"
                 data-supplemental-state--use_follow_text="true"
@@ -5421,7 +5421,7 @@ if (clientloggerIsEnabled) {
 </div>
 <a
     rel="nofollow"
-    href="https://ivaa-online.org/program/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+    href="https://library.ivaa-online.org/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -5527,7 +5527,7 @@ if (clientloggerIsEnabled) {
                     <p class="wt-mb-xs-2 wt-mt-xs-2">
                         Need to get in touch with the seller? Try <a
     rel="nofollow"
-    href="https://ivaa-online.org/program/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
+    href="https://library.ivaa-online.org/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -6323,7 +6323,7 @@ if (clientloggerIsEnabled) {
             </div>
 
             <div class="wt-action-group__item-container">
-                    <a href="https://ivaa-online.org/program/?ref=pagination&page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
+                    <a href="https://library.ivaa-online.org/?ref=pagination&page=1" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
                         aria-current="true"
                         
                         
@@ -6332,7 +6332,7 @@ if (clientloggerIsEnabled) {
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://ivaa-online.org/program/?ref=pagination&page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://library.ivaa-online.org/?ref=pagination&page=2" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="2"
                         
@@ -6341,7 +6341,7 @@ if (clientloggerIsEnabled) {
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://ivaa-online.org/program/?ref=pagination&page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://library.ivaa-online.org/?ref=pagination&page=3" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="3"
                         
@@ -6350,7 +6350,7 @@ if (clientloggerIsEnabled) {
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://ivaa-online.org/program/?ref=pagination&page=4" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://library.ivaa-online.org/?ref=pagination&page=4" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="4"
                         
@@ -6359,7 +6359,7 @@ if (clientloggerIsEnabled) {
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://ivaa-online.org/program/?ref=pagination&page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://library.ivaa-online.org/?ref=pagination&page=5" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="5"
                         
@@ -6371,7 +6371,7 @@ if (clientloggerIsEnabled) {
 
             <div class="wt-action-group__item-container">
                 <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon "
-                    href="https://ivaa-online.org/program/?ref=pagination&page=2"
+                    href="https://library.ivaa-online.org/?ref=pagination&page=2"
                     
                     data-page="2"
                     
@@ -6629,12 +6629,12 @@ if (clientloggerIsEnabled) {
 
     <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between">
         <div class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
-            <a class="wt-text-link-no-underline" href="https://ivaa-online.org/program/shop/"><p class="wt-text-heading">SLOT TOTO TERPERCAYA</p></a>
+            <a class="wt-text-link-no-underline" href="https://library.ivaa-online.org/shop/"><p class="wt-text-heading">SLOT TOTO TERPERCAYA</p></a>
         </div>
     </div>
     
     <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
-        <a class="wt-text-link-no-underline wt-text-body" href="https://ivaa-online.org/program/">Owned by MAJALAH4D</a>
+        <a class="wt-text-link-no-underline wt-text-body" href="https://library.ivaa-online.org/">Owned by MAJALAH4D</a>
             <span class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
             <p class="wt-text-body">Indonesia</p>
     </div>
@@ -6664,7 +6664,7 @@ if (clientloggerIsEnabled) {
     <div class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
         <div class="wt-flex-xs-1 wt-flex-lg-0"><a
     rel="nofollow"
-    href="https://ivaa-online.org/program/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+    href="https://library.ivaa-online.org/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -6689,7 +6689,7 @@ if (clientloggerIsEnabled) {
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495"/>
             <a
-                href="https://ivaa-online.org/program/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Fhttps://ivaa-online.org/program/%2Fpost"
+                href="https://library.ivaa-online.org/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Fhttps://library.ivaa-online.org/%2Fpost"
                 rel="nofollow"
                 data-downtime-overlay-type="favorite"
                 data-supplemental-state--use_follow_text="true"
@@ -6913,9 +6913,9 @@ if (clientloggerIsEnabled) {
 </div>
     
     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://ivaa-online.org/program/">TOTO</a>
+        <a href="https://library.ivaa-online.org/">TOTO</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://ivaa-online.org/program/c/clothing?explicit=1&ref=breadcrumb_listing">SLOT TOTO TERPERCAYA</a>
+        <a href="https://library.ivaa-online.org/c/clothing?explicit=1&ref=breadcrumb_listing">SLOT TOTO TERPERCAYA</a>
 </div></br>
     
     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
@@ -7011,7 +7011,7 @@ if (clientloggerIsEnabled) {
                 </legend>
                 <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
                     Simpan koleksi untuk diri sendiri atau beri inspirasi kepada pembeli lain! Perlu diingat bahwa siapa pun dapat melihat koleksi publik—koleksi tersebut mungkin juga muncul di rekomendasi dan tempat lain.
-                    <a href="https://ivaa-online.org/program/legal/privacy/" target="_blank">View MAJALAH4D Privacy Policy</a></p>
+                    <a href="https://library.ivaa-online.org/legal/privacy/" target="_blank">View MAJALAH4D Privacy Policy</a></p>
             </div>
             <div>
                     <div
@@ -7162,7 +7162,7 @@ if (clientloggerIsEnabled) {
     <footer>
             <div class="chrome-footer__etsy-finds">
                 <div class="wt-text-center-xs wt-pl-xs-4 wt-pr-xs-4 wt-pt-xs-3 wt-pt-md-6">
-    <form action="/email-subscriptions/form?from_page=https%3A%2F%2Fhttps://ivaa-online.org/program/%2Fpost" method="POST" class="subscribe-form not-signed-in"
+    <form action="/email-subscriptions/form?from_page=https%3A%2F%2Fhttps://library.ivaa-online.org/%2Fpost" method="POST" class="subscribe-form not-signed-in"
         data-finds-form
     >
 
@@ -7218,10 +7218,10 @@ if (clientloggerIsEnabled) {
                 Please enter a valid email address.
             </div>
             <div class="wt-alert wt-alert--inline wt-alert--status-01 wt-display-none wt-text-body-01" role="alert" aria-live="polite" data-requires-signin data-submission-response>
-                Looks like you already have an account! Please <a href="/signin?from_page=https%3A%2F%2Fhttps://ivaa-online.org/program/%2Fpost&workflow=c3Vic2NyaWJlX3RvX2VtYWlsX2xpc3Q6bmV3X2F0X2V0c3k6MTc1NzQ0NDUzMjo0OTNlMDMyODRlNDBmMjk5MmMwNjRiNDZiMzdmMTk4Nw==" data-campaign-slug="new_at_etsy">Log in</a> to subscribe.
+                Looks like you already have an account! Please <a href="/signin?from_page=https%3A%2F%2Fhttps://library.ivaa-online.org/%2Fpost&workflow=c3Vic2NyaWJlX3RvX2VtYWlsX2xpc3Q6bmV3X2F0X2V0c3k6MTc1NzQ0NDUzMjo0OTNlMDMyODRlNDBmMjk5MmMwNjRiNDZiMzdmMTk4Nw==" data-campaign-slug="new_at_etsy">Log in</a> to subscribe.
             </div>
             <div class="wt-alert wt-alert--inline wt-alert--status-01 wt-display-none wt-text-body-01" role="alert" aria-live="polite" data-requires-signup data-submission-response>
-                You've already signed up for some newsletters, but you haven't confirmed your address. <a href="/join?from_url=https%3A%2F%2Fhttps://ivaa-online.org/program/%2Fpost" class="" data-campaign-slug="new_at_etsy">Register</a> to confirm your address.
+                You've already signed up for some newsletters, but you haven't confirmed your address. <a href="/join?from_url=https%3A%2F%2Fhttps://library.ivaa-online.org/%2Fpost" class="" data-campaign-slug="new_at_etsy">Register</a> to confirm your address.
             </div>
             <div class="wt-alert wt-alert--inline wt-alert--success-01 wt-display-none wt-text-body-01" role="alert" aria-live="polite" data-success-signed-in data-success-no-email-signed-in data-success-no-email-signed-out data-submission-response>
                 You've been successfully signed up!
@@ -7288,7 +7288,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/giftcards?ref=ftr"
+                        href="https://library.ivaa-online.org/giftcards?ref=ftr"
                         >
                             
                             <span>Gift cards</span>
@@ -7296,7 +7296,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__registry-link'
-                        href="https://ivaa-online.org/program/registry?ref=ftr"
+                        href="https://library.ivaa-online.org/registry?ref=ftr"
                         >
                             
                             <span>TOTO Registry</span>
@@ -7304,7 +7304,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/categories"
+                        href="https://library.ivaa-online.org/categories"
                         >
                             
                             <span>Sitemap</span>
@@ -7320,7 +7320,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/uk?locale_override=GBP%7Cen-GB%7CGB"
+                        href="https://library.ivaa-online.org/uk?locale_override=GBP%7Cen-GB%7CGB"
                         >
                             
                             <span>TOTO United Kingdom</span>
@@ -7328,7 +7328,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/de?locale_override=EUR%7Cde%7CDE"
+                        href="https://library.ivaa-online.org/de?locale_override=EUR%7Cde%7CDE"
                         >
                             
                             <span>TOTO Germany</span>
@@ -7336,7 +7336,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/ca?locale_override=CAD%7Cen-US%7CCA"
+                        href="https://library.ivaa-online.org/ca?locale_override=CAD%7Cen-US%7CCA"
                         >
                             
                             <span>TOTO Canada</span>
@@ -7367,7 +7367,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/sell?ref=ftr"
+                        href="https://library.ivaa-online.org/sell?ref=ftr"
                         >
                             
                             <span>Sell on TOTO</span>
@@ -7375,7 +7375,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-teams-link'
-                        href="https://ivaa-online.org/program/"
+                        href="https://library.ivaa-online.org/"
                         rel="nofollow"
                         >
                             
@@ -7384,7 +7384,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-forums-link'
-                        href="https://ivaa-online.org/program/"
+                        href="https://library.ivaa-online.org/"
                         rel="nofollow"
                         >
                             
@@ -7393,7 +7393,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/affiliates?ref=ftr"
+                        href="https://library.ivaa-online.org/affiliates?ref=ftr"
                         rel="nofollow"
                         >
                             
@@ -7425,7 +7425,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/about?ref=ftr"
+                        href="https://library.ivaa-online.org/about?ref=ftr"
                         >
                             
                             <span>TOTO, Inc.</span>
@@ -7433,7 +7433,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/legal?ref=ftr"
+                        href="https://library.ivaa-online.org/legal?ref=ftr"
                         >
                             
                             <span>Policies</span>
@@ -7449,7 +7449,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/careers?ref=ftr"
+                        href="https://library.ivaa-online.org/careers?ref=ftr"
                         >
                             
                             <span>Careers</span>
@@ -7457,7 +7457,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/press?ref=ftr"
+                        href="https://library.ivaa-online.org/press?ref=ftr"
                         >
                             
                             <span>Press</span>
@@ -7465,7 +7465,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/impact?ref=ftr"
+                        href="https://library.ivaa-online.org/impact?ref=ftr"
                         >
                             
                             <span>Impact</span>
@@ -7473,7 +7473,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/help/article/25840304230?ref=ftr"
+                        href="https://library.ivaa-online.org/help/article/25840304230?ref=ftr"
                         >
                             
                             <span>Legal imprint</span>
@@ -7504,7 +7504,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://ivaa-online.org/program/help?ref=ftr"
+                        href="https://library.ivaa-online.org/help?ref=ftr"
                         >
                             
                             <span>Help Center</span>
@@ -7590,7 +7590,7 @@ if (clientloggerIsEnabled) {
 
                     <div class="chrome-footer__final-col">
                         <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small" aria-label="Update your settings Indonesia English (US) Rp (IDR)"
-    href="https://ivaa-online.org/program/your/account/locale_preferences?from_page=https%3A%2F%2Fhttps://ivaa-online.org/program/%2Fpost" data-aria-controls="wt-locale-picker-overlay"
+    href="https://library.ivaa-online.org/your/account/locale_preferences?from_page=https%3A%2F%2Fhttps://library.ivaa-online.org/%2Fpost" data-aria-controls="wt-locale-picker-overlay"
 >
     <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle">    <span class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white&#10;                    wt-icon--smaller-xs wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12,2A10,10,0,1,0,22,12,10.012,10.012,0,0,0,12,2ZM9,18.883v0.528A7.938,7.938,0,0,1,4.06,11.06l3.385,3.385a2.967,2.967,0,0,0,1.649,4.4ZM17.5,15a2.509,2.509,0,0,0,.5-0.05V15a0.992,0.992,0,0,0,.927.985A8,8,0,0,1,12,20c-0.216,0-.427-0.016-0.639-0.032l1.254-2.5-0.015.006A2.968,2.968,0,0,0,13,16a2.988,2.988,0,0,0-5-2.221V11H9a1,1,0,0,0,1-1V9a1,1,0,0,0,1-1,1,1,0,0,0,0-2H6.726A7.9,7.9,0,0,1,14,4.263V6a1,1,0,0,0,2,0V5.082a8.047,8.047,0,0,1,2,1.649V7H17a1,1,0,0,0,0,2h2.411a7.941,7.941,0,0,1,.326,1H17a2.556,2.556,0,0,0-2,2.5A2.5,2.5,0,0,0,17.5,15Z"/></svg></span>
 </span>
@@ -7642,91 +7642,91 @@ if (clientloggerIsEnabled) {
     <div class="wt-display-flex-md wt-pt-xs-1 wt-pt-md-1 wt-text-body-01">
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
+                    <a href="https://library.ivaa-online.org/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/at?locale_override=EUR%7Cde%7CAT">Austria</a>
+                    <a href="https://library.ivaa-online.org/at?locale_override=EUR%7Cde%7CAT">Austria</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
+                    <a href="https://library.ivaa-online.org/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
+                    <a href="https://library.ivaa-online.org/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
+                    <a href="https://library.ivaa-online.org/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
+                    <a href="https://library.ivaa-online.org/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
+                    <a href="https://library.ivaa-online.org/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/fr?locale_override=EUR%7Cfr%7CFR">France</a>
+                    <a href="https://library.ivaa-online.org/fr?locale_override=EUR%7Cfr%7CFR">France</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/de?locale_override=EUR%7Cde%7CDE">Germany</a>
+                    <a href="https://library.ivaa-online.org/de?locale_override=EUR%7Cde%7CDE">Germany</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
+                    <a href="https://library.ivaa-online.org/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
+                    <a href="https://library.ivaa-online.org/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
+                    <a href="https://library.ivaa-online.org/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
+                    <a href="https://library.ivaa-online.org/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/it?locale_override=EUR%7Cit%7CIT">Italy</a>
+                    <a href="https://library.ivaa-online.org/it?locale_override=EUR%7Cit%7CIT">Italy</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
+                    <a href="https://library.ivaa-online.org/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
+                    <a href="https://library.ivaa-online.org/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
+                    <a href="https://library.ivaa-online.org/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
+                    <a href="https://library.ivaa-online.org/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
+                    <a href="https://library.ivaa-online.org/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
+                    <a href="https://library.ivaa-online.org/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://ivaa-online.org/program/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
+                    <a href="https://library.ivaa-online.org/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://ivaa-online.org/program/es?locale_override=EUR%7Ces%7CES">Spain</a>
+                    <a href="https://library.ivaa-online.org/es?locale_override=EUR%7Ces%7CES">Spain</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://ivaa-online.org/program/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
+                    <a href="https://library.ivaa-online.org/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://ivaa-online.org/program/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
+                    <a href="https://library.ivaa-online.org/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://ivaa-online.org/program/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
+                    <a href="https://library.ivaa-online.org/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://ivaa-online.org/program/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
+                    <a href="https://library.ivaa-online.org/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://ivaa-online.org/program/?locale_override=USD%7Cen-US%7CUS">United States</a>
+                    <a href="https://library.ivaa-online.org/?locale_override=USD%7Cen-US%7CUS">United States</a>
                 </div>
         </div>
     </div>
@@ -7768,7 +7768,7 @@ if (clientloggerIsEnabled) {
             <input type="hidden" name="region_code" value=""/>
 
             <p class="wt-mb-xs-3 wt-text-body-01">
-                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://ivaa-online.org/program/help/article/493" target="_blank">Learn more.</a>
+                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://library.ivaa-online.org/help/article/493" target="_blank">Learn more.</a>
             </p>
 
                 <div id="locale-picker-sections-wrap">
@@ -8170,7 +8170,7 @@ if (clientloggerIsEnabled) {
 <li>Slot Resmi</li>
 <li>TOTO7</li>
 </ul>
-<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di TOTO <a class="wt-text-link" href="https://ivaa-online.org/program/legal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://ivaa-online.org/program/legal/privacy">Privacy Policy</a>.</p>
+<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di TOTO <a class="wt-text-link" href="https://library.ivaa-online.org/legal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://library.ivaa-online.org/legal/privacy">Privacy Policy</a>.</p>
     </div>
 
     <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
@@ -8189,7 +8189,7 @@ if (clientloggerIsEnabled) {
         <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
             <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Periklanan yang Dipersonalisasi</h2>
 <p class="wt-text-caption wt-mb-xs-2">Untuk mengaktifkan iklan yang dipersonalisasi (seperti iklan berbasis minat), kami dapat membagikan data Anda dengan mitra pemasaran dan periklanan kami menggunakan cookie dan teknologi lainnya. Mitra tersebut mungkin memiliki informasi mereka sendiri yang telah mereka kumpulkan tentang Anda. Menonaktifkan pengaturan iklan yang dipersonalisasi tidak akan menghentikan Anda melihat iklan TOTO, tetapi dapat membuat iklan yang Anda lihat kurang relevan atau lebih berulang.</p>
-<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://ivaa-online.org/program/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://ivaa-online.org/program/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://ivaa-online.org/program/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
+<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://library.ivaa-online.org/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://library.ivaa-online.org/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://library.ivaa-online.org/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
         </div>
         <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
             <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
@@ -8294,7 +8294,7 @@ if (clientloggerIsEnabled) {
 
         
 
-            <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">if(window.console){console.log("Is code your craft? https://ivaa-online.org/program/careers/")}</script>
+            <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">if(window.console){console.log("Is code your craft? https://library.ivaa-online.org/careers/")}</script>
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"79b94d94db7e45929463f365ce6e4d37","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"79b94d94db7e45929463f365ce6e4d37","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"79b94d94db7e45929463f365ce6e4d37","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
